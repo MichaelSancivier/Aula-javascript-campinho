@@ -1,8 +1,8 @@
-var texto = "Michael";
+const texto = "Michael";
 console.log(texto);
 
 
-var textModificado = texto.split('').reverse().join('');
+const textModificado = texto.split('').reverse().join('');
 
 console.log(textModificado);
 
@@ -10,5 +10,5 @@ console.log(textModificado);
 
 
 
-var nome = "Arildo"
+const nome = "Arildo"
 console.log(nome);
