@@ -7,7 +7,7 @@ const textModificado = texto.split('').reverse().join('');
 console.log(textModificado);
 
 
-var novoNome= "Vinicius";
+const novoNome= "Vinicius";
 console.log(novoNome);
 
 const nome = "Arildo"
